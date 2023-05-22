@@ -10,7 +10,7 @@
 >* 2018.03 ~ 2024.02 : Kangnam Univ. major in <strong>Data Science</strong> /  minor-major in <strong>software</strong><br>
 
 ## 📫 How to reach me 
->* E-mail : leehg229@naver.com<br><br>
+>* E-mail : wpdn115@naver.com<br><br>
 
 ## 📌 My Portfolio 
 >* **포트폴리오 주소**<br><br>
