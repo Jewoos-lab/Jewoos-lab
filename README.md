@@ -3,7 +3,8 @@
 
 * I'm a person who does my best in everything.
 * I like to derive new things from analysis.
-* Also, I will make constant efforts toward my dream.<br>
+* Also, I will make constant efforts toward my dream.
+*  person who works diligently like an ant.<br>
 
 
 ## 📒 Education
