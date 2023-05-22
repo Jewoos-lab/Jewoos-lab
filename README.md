@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Jewoo</h1>
 <h3 align="left">I want to be a passionate Data Analyst</h3>
 
-* I'm a person who does my best in everything.
-* I like to derive new things from analysis.
-* Also, I will make constant efforts toward my dream.
-*  person who works diligently like an ant.<br>
+* A person who works diligently like an ant
+* I'm a person who does my best in everything
+* I like to derive new things from analysis
+* Also, I will make constant efforts toward my dream<br>
 
 
 ## 📒 Education
