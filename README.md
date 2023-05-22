@@ -13,8 +13,7 @@
 >* E-mail : wpdn115@naver.com<br><br>
 
 ## 📌 My Portfolio 
->* **포트폴리오 주소**<br><br>
-[Notion](https://bony-dahlia-44c.notion.site/Jewoo-Yoo-b993e9863dd3447f9e5fda4c0839ab2d)
+>[Notion](https://bony-dahlia-44c.notion.site/Jewoo-Yoo-b993e9863dd3447f9e5fda4c0839ab2d)
 
 ## 🏆 Challenge / Award
 
