@@ -22,12 +22,12 @@
 <br>
 
 ## 📫 How to reach me 
-> * E-mail : wpdn115@naver.com<br><br>
+> E-mail : wpdn115@naver.com<br><br>
 
 <br>
 
 ## 📌 My Portfolio 
-> * [<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=#000000">](https://bony-dahlia-44c.notion.site/Jewoo-Yoo-b993e9863dd3447f9e5fda4c0839ab2d)
+> [<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=#000000">](https://bony-dahlia-44c.notion.site/Jewoo-Yoo-b993e9863dd3447f9e5fda4c0839ab2d)
 
 
 <br><br><br><br><br>
