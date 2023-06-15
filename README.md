@@ -2,7 +2,7 @@
 <h3 align="left">I want to be a passionate Data Analyst</h3>
 
 ## 📒 Education
-| B.S in DataScience, Kangnam University, 2018.03 - 2024.02.
+| B.S in DataScience, Kangnam University, 2018.03 - 2024.02.<br>
 | Data Analyst & Data Scientist @ OneDayOneCommunication, 2022.09.01 - 2022.12.31
 
 🛠 기술 스택 🛠 <br><br>
