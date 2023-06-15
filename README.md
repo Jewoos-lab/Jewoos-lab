@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Jewoo</h1>
-<h3 align="left">I want to be a passionate Data Analyst</h3>
+<h3 align="left">I want to be a passionate Data Analyst</h3><br>
+
 
 ## 📒 Education
 > | B.S in DataScience, Kangnam University, 2018.03 - 2024.02.<br>
