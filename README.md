@@ -24,9 +24,9 @@ Using for web development <br><br>
 > * E-mail : wpdn115@naver.com<br><br>
 
 ## 📌 My Portfolio 
- [!<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=#000000">](https://bony-dahlia-44c.notion.site/Jewoo-Yoo-b993e9863dd3447f9e5fda4c0839ab2d)
+ [<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=#000000">](https://bony-dahlia-44c.notion.site/Jewoo-Yoo-b993e9863dd3447f9e5fda4c0839ab2d)
 
 
-
+<br><br><br><br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJewoos-lab&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
