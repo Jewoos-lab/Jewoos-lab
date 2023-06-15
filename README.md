@@ -14,6 +14,7 @@
 <br><br>
 >Techs that I sometimes use <br><br>
 ><img src="https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb&logoColor=white"> 
+><img src="https://img.shields.io/badge/Qgis-00AF9C?style=for-the-badge&logo=Qgis&logoColor=#589632"> 
 ><img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
 ><img src="https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white"> 
 ><img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=yellow"> 
