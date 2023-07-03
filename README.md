@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Jewoo</h1>
-<h3 align="left">I want to be a passionate Data Analyst</h3><br>
-<h4 align="left">I am interested in game analysis, e-commerce analysis, and user log analysis</h4><br>
+<h3 align="left">I want to be a passionate Data Analyst</h3>
+<h5 align="left">I'm interested in game analysis, e-commerce analysis, and user log analysis</h5><br>
 
 
 ## 📒 Education
