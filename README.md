@@ -5,7 +5,7 @@
 
 ## 📒 Education
 > | B.S in DataScience, Kangnam University, 2018.03 - 2024.02.<br>
-> | Data Analyst & Data Scientist @OneDayOneCommunication, 2022.09.01 - 2022.12.31
+> | Data Analyst @OneDayOneCommunication, 2022.09.01 - 2022.12.31
 
 >🛠 Tech Stack 🛠 <br><br>
 ><strong>Using for Data Analysis<strong> <br><br>
