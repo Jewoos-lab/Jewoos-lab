@@ -4,7 +4,7 @@
 
 
 ## 📒 Career
-> | Data Analyst @OneDayOneCommunication - Intern, 2022.09.01 - 2022.12.31
+> | [Intern] Data Analyst @OneDayOneCommunication, 2022.09.01 - 2022.12.31
 
 >🛠 Tech Stack 🛠 <br><br>
 ><strong>Using for Data Analysis<strong> <br><br>
